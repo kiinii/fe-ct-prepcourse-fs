@@ -79,3 +79,4 @@ Para poder acompañarte en esta etapa te ofrecemos las **Clases de Apoyo en Vivo
 Las clases son de lunes a viernes. Cada día se establece una temática distinta a trabajar. Deberás llegar a la clase habiendo visto los videos sobre ese tema e intentado resolver los ejercicios, dado que en las clases no se explicará los temas desde cero sino que se resolverán dudas puntuales.
 
 Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encontrar el calendario con las clases, el link de acceso y el link de la grabación, aquí: [**CALENDARIO**](https://prep.soyhenry.com/calendario/)
+¨# RepositorioHenry¨
